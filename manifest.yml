@@ -1,0 +1,6 @@
+applications:
+- services:
+  - qa-service
+  name: qa-ruby
+  path: .
+  memory: 256M
