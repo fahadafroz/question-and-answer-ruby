@@ -45,7 +45,7 @@ See the full [Getting Started][getting_started] documentation for more details, 
 
 ## Contributing
 
-  See [CONTRIBUTING](https://github.rtp.raleigh.ibm.com/gattana-us/qa-ruby/blob/master/CONTRIBUTING.md).
+  See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Open Source @ IBM
   Find more open source projects on the [IBM Github Page](http://ibm.github.io/)
