@@ -41,7 +41,7 @@ See the full [Getting Started][getting_started] documentation for more details, 
 
 ## License
 
-  This sample code is licensed under Apache 2.0. Full license text is available in [LICENSE]: LICENSE).
+  This sample code is licensed under Apache 2.0. Full license text is available in [LICENSE](LICENSE).
 
 ## Contributing
 
