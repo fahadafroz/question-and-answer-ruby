@@ -1,3 +1,8 @@
+---
+declared-services:
+- qa-service:
+    label: question_and_answer
+    plan: question_and_answer_free_plan
 applications:
 - services:
   - qa-service
