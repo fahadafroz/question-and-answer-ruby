@@ -2,6 +2,10 @@
 
   The IBM Watson [Question and Answer][question_and_answer] service interprets and answers user questions directly based on primary data sources (brochures, web pages, manuals, records, etc.) that have been selected and gathered into a body of data or 'corpus'. The service returns candidate responses with associated confidence levels and links to supporting evidence. The current corpora that are available in Bluemix focus on the Travel and Healthcare industries. Cognitive services learn and improve through training. This beta-level service has no training but shows representative (if not always highly accurate) output. The service is shared to demonstrate how it works. Training the models can improve the results through machine learning.
 
+Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix.
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/qa-ruby.git)
+
 ## Getting Started
 
 1. Create a Bluemix Account
